@@ -14,7 +14,7 @@ Using the bot is super simple. Just send commands like:
 
 /nfts 0x... to view NFT holdings
 ```
-##Demo 
+## Demo 
 
 
 https://github.com/user-attachments/assets/fe70c2d8-40aa-4857-871b-840310840419
