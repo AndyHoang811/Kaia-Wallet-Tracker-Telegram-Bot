@@ -24,3 +24,6 @@ Using the bot is super simple. Just send commands like:
 
 https://github.com/user-attachments/assets/fe70c2d8-40aa-4857-871b-840310840419
 
+![image](https://github.com/user-attachments/assets/77f9c5ab-5798-48d3-af15-406f9c4b7f34)
+
+![image](https://github.com/user-attachments/assets/abaef13d-4e83-46b7-a6b1-1b6c92b93eef)
