@@ -228,8 +228,8 @@ def check_new_transactions():
                 except Exception as address_error:
                     print(f"Error checking transactions for {address}: {address_error}")
             
-            # Wait for 2 minutes before next check to avoid overwhelming the API
-            time.sleep(30)
+            # Wait for 30 minutes before next check to avoid overwhelming the API
+            time.sleep(1800)
         
         except Exception as e:
             print(f"Error in transaction checking loop: {e}")
